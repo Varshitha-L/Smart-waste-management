@@ -1,5 +1,5 @@
 import { useState, useEffect, useCallback } from "react";
-
+ 
 // ─── DUMMY DATA ───────────────────────────────────────────────────────────────
 
 const BINS = [
